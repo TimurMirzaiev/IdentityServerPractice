@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jS/sZrJT16XXnSBGMmCM/iQ5dIX4jDKcUq6v8W5diXiBA2pYO5DmuBsC7W0kA394GMdSkW8XW6jM3LfLH6O4BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tim\\Desktop\\test2\\quickstart\\src\\JavaScriptClient\\JavaScriptClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tim\\.nuget\\packages\\microsoft.typescript.msbuild\\3.9.5\\microsoft.typescript.msbuild.3.9.5.nupkg.sha512"
+  ],
+  "logs": []
+}

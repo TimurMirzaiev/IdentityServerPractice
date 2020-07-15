@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w/IQ3YxP/E5GEspf+dqEkMfIepneB6M7L/R6eIJlKQVwL2Bn+l+mZc+Ue3a2R986OUGKL+C/N/gM0x5RKeY52g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tim\\Desktop\\test2\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tim\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\tim\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

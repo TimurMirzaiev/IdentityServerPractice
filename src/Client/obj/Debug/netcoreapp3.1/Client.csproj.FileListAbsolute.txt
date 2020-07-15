@@ -1,0 +1,16 @@
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\tim\Desktop\test2\quickstart\src\Client\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.csproj.CopyComplete
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\tim\Desktop\test2\quickstart\src\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
